@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/guru/static/css/main.71234bbb.chunk.css",
+    "main.js": "/guru/static/js/main.abaebef6.chunk.js",
+    "main.js.map": "/guru/static/js/main.abaebef6.chunk.js.map",
+    "runtime-main.js": "/guru/static/js/runtime-main.4ae0b22d.js",
+    "runtime-main.js.map": "/guru/static/js/runtime-main.4ae0b22d.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/guru/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.0615a1ae.chunk.js": "/guru/static/js/2.0615a1ae.chunk.js",
+    "static/js/2.0615a1ae.chunk.js.map": "/guru/static/js/2.0615a1ae.chunk.js.map",
+    "index.html": "/guru/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/guru/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.71234bbb.chunk.css.map": "/guru/static/css/main.71234bbb.chunk.css.map",
+    "static/js/2.0615a1ae.chunk.js.LICENSE.txt": "/guru/static/js/2.0615a1ae.chunk.js.LICENSE.txt",
+    "static/media/about.c9a88b5a.gif": "/guru/static/media/about.c9a88b5a.gif",
+    "static/media/house.7cea4aa4.png": "/guru/static/media/house.7cea4aa4.png",
+    "static/media/house.88ddc612.gif": "/guru/static/media/house.88ddc612.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ae0b22d.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.0615a1ae.chunk.js",
+    "static/css/main.71234bbb.chunk.css",
+    "static/js/main.abaebef6.chunk.js"
+  ]
+}
