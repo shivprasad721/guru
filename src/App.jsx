@@ -9,7 +9,7 @@ import Contact from './Contact';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import "./index.css";
-
+import Gallery from './Components/gallery/Guru_Gallery'
 
 const App = () =>{
     return(    
@@ -18,6 +18,7 @@ const App = () =>{
             <Switch>
                 <Route exact path="/" component={Home}/>
                 <Route exact path="/Services" component={Services}/>
+                <Route exact path="/gallery" component={Gallery}/>
                 <Route exact path="/About" component={About}/>
                 <Route exact path="/Contact" component={Contact}/>
                 <Route component={Home}/>

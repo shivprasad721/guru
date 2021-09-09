@@ -23,6 +23,9 @@ return(
                                     <NavLink activeClassName="menu-active" exact className="nav-link" to="/Services">Services</NavLink>
                                 </li>
                                 <li className="nav-item">
+                                    <NavLink activeClassName="menu-active" exact className="nav-link" to="/gallery">Gallery</NavLink>
+                                </li>
+                                <li className="nav-item">
                                     <NavLink activeClassName="menu-active" exact className="nav-link" to="/About">About</NavLink>
                                 </li>
                                 <li className="nav-item">
